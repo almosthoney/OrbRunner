@@ -18,7 +18,6 @@ OrbRunner allows you to complete 15-minute Discord play quests without downloadi
 - **🎬 Video Quest Unpauser:** One-click script for your browser to keep video quests progressing muted while you multitask or game.
 - **🔍 10,000+ Game Catalog:** Searches Discord's public detectable games database, automatically floats newest quest additions to the top, and supports custom `.exe` paths.
 - **📦 100% Portable:** Single file (~77 KB), zero external dependencies, no installation, and never touches `AppData` or the registry.
-- **🎨 Native UI:** Clean dark Obsidian theme rendered via hardware-accelerated GDI+ with true sub-pixel typography.
 
 ---
 
