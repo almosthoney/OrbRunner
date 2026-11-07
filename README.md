@@ -45,6 +45,38 @@ OrbRunner allows you to complete 15-minute Discord play quests without downloadi
 - **100% Local:** Stand-in processes run offline on your machine with zero background spyware or telemetry.
 
 ---
+## ❓ FAQ
 
+<details>
+<summary><b>Windows SmartScreen or my antivirus flagged it. Is it safe?</b></summary>
+<br>
+Yes. OrbRunner is an independent, open-source tool without an expensive corporate signing certificate ($400+/year). Windows SmartScreen automatically warns about new files. OrbRunner runs 100% locally with zero internet access, needs no Admin privileges, and modifies no system files. Click <b>More info → Run anyway</b>.
+</details>
+
+<details>
+<summary><b>Can my Discord account get banned?</b></summary>
+<br>
+No. OrbRunner never touches your Discord token, password, or memory. It simply opens a lightweight local window with the game's title so Discord's built-in game detector sees you playing.
+</details>
+
+<details>
+<summary><b>Why does a small game window open?</b></summary>
+<br>
+Discord ignores hidden background processes; it specifically checks for a visible window handle. The mini window provides that handle so Discord detects it immediately. You can minimize (—) it to your taskbar while it runs.
+</details>
+
+<details>
+<summary><b>How do I add a new game that isn't listed?</b></summary>
+<br>
+Go to the <b>Add Game</b> tab, type the game's title and its executable name (e.g. <code>MarvelRivals.exe</code>), and click <b>Add Game</b>.
+</details>
+
+<details>
+<summary><b>Can I run multiple quests at the same time?</b></summary>
+<br>
+Yes. If you have accepted multiple quests in Discord, click <b>Start All</b> to advance them simultaneously.
+</details>
+
+---
 ## 📜 License
 MIT License. Free for personal use.
