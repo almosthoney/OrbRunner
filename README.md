@@ -50,7 +50,7 @@ OrbRunner allows you to complete 15-minute Discord play quests without downloadi
 <details>
 <summary><b>Windows SmartScreen or my antivirus flagged it. Is it safe?</b></summary>
 <br>
-Yes. OrbRunner is an independent, open-source tool without an expensive corporate signing certificate ($400+/year). Windows SmartScreen automatically warns about new files. OrbRunner runs 100% locally with zero internet access, needs no Admin privileges, and modifies no system files. Click <b>More info → Run anyway</b>.
+Yes. Windows SmartScreen automatically warns about newly published executables that don't have a widespread download history yet. OrbRunner runs 100% locally with zero internet access, needs no Admin privileges, and modifies no system files. Click <b>More info → Run anyway</b>.
 </details>
 
 <details>
